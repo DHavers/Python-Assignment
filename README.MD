@@ -19,7 +19,7 @@ To run this project, you need to install following dependencies:
 You can installing them using the following command:
 ```bash 
 pip install pandas matplotlib biopython scikit-learn seaborn
-
+```bash
 Library details: 
 	- pandas (import pandas as pd): enables efficient data manipulation and analysis by providing data structures like DataFrame
 	- matplotlib (import matplotlib.pyplot as plt): can be used to create visulisations in python

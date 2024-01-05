@@ -10,11 +10,7 @@ To run:
 Library installations
 
 To run this project, you need to install following dependencies:
-	- pandas 
-	- matplotlib 
-	- biopython
-	- scikit-learn
-	- seaborn
+	pandas,  matplotlib, biopython, scikit-learn and seaborn.
 
 Library details: 
 	- pandas (import pandas as pd): enables efficient data manipulation and analysis by providing data structures like DataFrame

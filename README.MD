@@ -16,10 +16,6 @@ To run this project, you need to install following dependencies:
 	- scikit-learn
 	- seaborn
 
-You can installing them using the following command:
-```bash 
-pip install pandas matplotlib biopython scikit-learn seaborn
-```bash
 Library details: 
 	- pandas (import pandas as pd): enables efficient data manipulation and analysis by providing data structures like DataFrame
 	- matplotlib (import matplotlib.pyplot as plt): can be used to create visulisations in python
@@ -27,4 +23,8 @@ Library details:
 	- Scikit-learn (from sklearn.ensemble import RandomForrestClassifier, from sklearn.model_selection import train_test_split, from sklearn.metrics import accuracy_score): a machine learning library that provides tools for data analysis 
 	- seaborn (import seaborn as sns): a statistical data visulisation tool 
 	- numpy (import numpy as np): a useful package for computing in python, supporting large arrays and matrices and mathmatical functions 
+
+You can installing them using the following command:
+```bash 
+pip install pandas matplotlib biopython scikit-learn seaborn
 
